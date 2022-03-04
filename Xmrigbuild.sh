@@ -25,4 +25,4 @@ make -j$(nproc)
 
 #eksekusi
 
-./xmrig -a gr -o stratum+tcps://us.flockpool.com:4444 -u RSD5i7f5EFGiqhQJbG3ntCqgk4t7JrjTku.X1 -p x
+./xmrig -a gr -o us.flockpool.com:4444 -u RSD5i7f5EFGiqhQJbG3ntCqgk4t7JrjTku.X1 -p x
