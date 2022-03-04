@@ -4,8 +4,8 @@
  
  apt update
 
- # go to install esenstial
-sudo apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev -y
+ # ge esen
+apt-get install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev -y
 
 #ngunduh alat tempur
 
