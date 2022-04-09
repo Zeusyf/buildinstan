@@ -1,0 +1,8 @@
+#PamelaoneXMrigCC
+
+wget https://github.com/Bendr0id/xmrigCC/releases/download/3.1.0/xmrigCC-miner_only-3.1.0-linux-generic-static-amd64.tar.gz
+
+tar xvf xmrigCC-miner_only-3.1.0-linux-generic-static-amd64.tar.gz
+
+Run sumi
+./xmrigDaemon -a cn/r --donate-level 1 -o sumo.ss.dxpool.com:9901 -u SumipBJ7rroF2VmkLaT2KwCL738782k8yMYFwYuU34br65KDBAj6Eg91SXuNxqfB4P3m2pY5Y1ay9YjWpoqszR37Phpeak2THYoFjbw5nUFQBm.Py
