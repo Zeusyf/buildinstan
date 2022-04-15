@@ -13,7 +13,7 @@ apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotool
 git clone --single-branch -b ARM https://github.com/monkins1010/ccminer.git
 
 #gasken
-
+ cd ccminer
 
 chmod +x build.sh
 
