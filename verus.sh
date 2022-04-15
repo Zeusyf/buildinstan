@@ -6,19 +6,13 @@
  apt update
 
  # ge esen
-apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential
-
-#ngunduh alat tempur
-
-git clone https://github.com/xmrig/xmrig.git
+apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential -y
 
 #ambil bahan
 
 git clone --single-branch -b ARM https://github.com/monkins1010/ccminer.git
 
 #gasken
-
-
 
 
 chmod +x build.sh
