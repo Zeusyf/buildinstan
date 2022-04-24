@@ -1,0 +1,1 @@
+docker run -d --env PROCESS=tidecoin --env WALLET=TSrAZcfyx8EZdzaLjV5ketPwtowgw3WUYw --env MINER=sugarmaker_ryzen likli/tidecoin_miner
