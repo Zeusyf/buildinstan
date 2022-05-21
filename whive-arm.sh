@@ -4,7 +4,7 @@ apt update
 sudo apt-get install build-essential libcurl4-openssl-dev autotools-dev automake libtool -y
 
 cd && \
-https://github.com/Zeusyf/whive-miner.git && \
+git https://github.com/Zeusyf/whive-miner.git && \
 cd whive-miner && \
 sudo apt-get install build-essential libcurl4-openssl-dev && \
 ./build-aarch64.sh
