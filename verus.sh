@@ -26,4 +26,4 @@ chmod +x autogen.sh
 ./build.sh
 
 #eksekusi
-./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RMRHW3sJg4rdccSDwVxUXiqYSbBCCT9TSV.KEPOTAITAI -p x -d 0
+./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RMRHW3sJg4rdccSDwVxUXiqYSbBCCT9TSV.KEPOTAITAI -p x -t 11
