@@ -1,4 +1,4 @@
-#!/bin/bahs
+#!/bin/bash
 
 git clone https://github.com/tpruvot/cpuminer-multi
 cd cpuminer-multi
